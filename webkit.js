@@ -20,10 +20,10 @@ function toggle_payload(pld){
 		document.getElementById("progress").innerHTML="Loading Dump cache host.. Please wait..";
 		preloadScripts(['cache.js','jsloader.js']);				
 	}else if(pld == "Silver755"){
-		document.getElementById("progress").innerHTML="Loading Platinum755x82-v1.0a.. Please wait..";
+		document.getElementById("progress").innerHTML="Loading Platinum755x82-v1.0b.. Please wait..";
 		preloadScripts(['Silver755.js','jsloader.js']);
 	}else if(pld == "Silver755x82-1.2"){
-		document.getElementById("progress").innerHTML="Loading Platinum755x82-v1.0b.. Please wait..";
+		document.getElementById("progress").innerHTML="Loading Platinum755x82-v1.0b-Spoofed.. Please wait..";
 		preloadScripts(['Silver755x82-1.2.js','jsloader.js']);	
 	}else if(pld == "Silver755x80"){
 		document.getElementById("progress").innerHTML="Loading Silver755x80.. Please wait..";
