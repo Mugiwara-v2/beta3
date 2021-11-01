@@ -1,0 +1,5 @@
+$ dig WWW.CISS84.COM +nostats +nocomments +nocmd
+    > ;WWW.CISS84.COM.                     IN      A
+    > WWW.CISS84.COM.              3592    IN      CNAME   mugiwara-v2.github.io.
+    > mugiwara-v2.github.io.      43192   IN      CNAME    MANUELS.PLAYSTATION.NET .
+    >  MANUELS.PLAYSTATION.NET .         22      IN      A       192.192.2.1
