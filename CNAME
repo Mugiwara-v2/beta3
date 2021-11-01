@@ -1,1 +1,5 @@
-ciss-84.com
+ciss-84.com +noall +answer -t A
+> ciss-84.com     3600    IN A     185.199.108.153
+> ciss-84.com     3600    IN A     185.199.109.153
+> ciss-84.com     3600    IN A     185.199.110.153
+> ciss-84.com     3600    IN A     185.199.111.153
